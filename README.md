@@ -5,7 +5,7 @@ from the [Phoenix Framework](http://www.phoenixframework.org/).
 
 # Installation
 
-`npm install --save phoenix-socket`
+`npm install --save acrolink/phoenix_socket`
 
 # Authors
 
